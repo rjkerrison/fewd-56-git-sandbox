@@ -10,12 +10,12 @@
 
 - Create a **branch** on GitHub Desktop with your `name-surname`, e.g.
   ```sh
-  pedro-martin
+  robin-kerrison
   ```
 - Open this repo in a text editor (VS Code)
 - Create a **folder** with your `name-surname`, e.g.
   ```sh
-  pedro-martin
+  robin-kerrison
   ```
 - Inside the new **folder**, create a `readme.md` file
 - Copy and paste the template below and change the content
