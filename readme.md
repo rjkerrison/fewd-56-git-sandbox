@@ -5,7 +5,7 @@
 - Clone this repo using [GitHub Desktop](https://desktop.github.com/)
 
   ```sh
-  https://github.com/pataruco/fewd-55-git-sandbox.git
+  https://github.com/rjkerrison/fewd-56-git-sandbox.git
   ```
 
 - Create a **branch** on GitHub Desktop with your `name-surname`, e.g.
